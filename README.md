@@ -55,7 +55,7 @@ Follow these steps to set up the project on your local machine:
 # Database Setup
 
 2. **Create a MySQL database:**
-   - Create a MySQL database and import the provided SQL file to set up the necessary tables.
+   - Create a MySQL database and import the 'web-hospital.sql' file located in the 'Database' folder to establish the required tables.
 
 # Configuration
 
